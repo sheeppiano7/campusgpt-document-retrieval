@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+campusgpt_env/
+.pytest_cache/
+.streamlit/secrets.toml
+uploads/
+*.pdf
+*.log
+.env
