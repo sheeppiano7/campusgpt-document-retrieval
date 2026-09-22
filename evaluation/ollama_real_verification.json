@@ -1,0 +1,14 @@
+{
+  "scenario": "local_ollama_cited_answer",
+  "model": "qwen2.5:1.5b",
+  "question": "What conditions are required for deadlock?",
+  "retrieved_references": [
+    {
+      "source": "operating_systems.pdf",
+      "page": 7,
+      "score": 0.701
+    }
+  ],
+  "answer": "Deadlock requires mutual exclusion, hold and wait, no preemption, and circular wait.\n\n参考来源：[资料1]",
+  "citation_present": true
+}
