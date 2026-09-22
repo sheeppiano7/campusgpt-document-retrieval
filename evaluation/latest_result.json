@@ -1,0 +1,32 @@
+{
+  "question_count": 5,
+  "recall_at_3": 1.0,
+  "mrr": 1.0,
+  "details": [
+    {
+      "question": "死锁产生需要哪些条件？",
+      "expected": "操作系统.pdf#7",
+      "rank": 1
+    },
+    {
+      "question": "TCP和UDP有什么区别？",
+      "expected": "计算机网络.pdf#3",
+      "rank": 1
+    },
+    {
+      "question": "事务ACID分别是什么？",
+      "expected": "数据库原理.pdf#5",
+      "rank": 1
+    },
+    {
+      "question": "什么是进程？",
+      "expected": "操作系统.pdf#2",
+      "rank": 1
+    },
+    {
+      "question": "索引有什么作用和代价？",
+      "expected": "数据库原理.pdf#9",
+      "rank": 1
+    }
+  ]
+}

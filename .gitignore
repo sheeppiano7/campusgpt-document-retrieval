@@ -4,8 +4,10 @@ __pycache__/
 venv/
 campusgpt_env/
 .pytest_cache/
+pytest-cache-files-*/
 .streamlit/secrets.toml
 uploads/
+.tmp/
 *.pdf
 *.log
 .env

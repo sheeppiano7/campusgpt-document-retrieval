@@ -1,0 +1,16 @@
+{
+  "documents": [
+    {"source": "操作系统.pdf", "page": 2, "text": "进程是正在执行的程序，是资源分配和调度的基本单位。"},
+    {"source": "操作系统.pdf", "page": 7, "text": "死锁的四个必要条件是互斥、请求与保持、不可剥夺和循环等待。"},
+    {"source": "计算机网络.pdf", "page": 3, "text": "TCP提供面向连接、可靠的字节流传输服务。UDP是无连接的数据报协议。"},
+    {"source": "数据库原理.pdf", "page": 5, "text": "事务的ACID特性包括原子性、一致性、隔离性和持久性。"},
+    {"source": "数据库原理.pdf", "page": 9, "text": "数据库索引能够减少需要扫描的数据页，但会增加写入维护开销。"}
+  ],
+  "questions": [
+    {"question": "死锁产生需要哪些条件？", "source": "操作系统.pdf", "page": 7},
+    {"question": "TCP和UDP有什么区别？", "source": "计算机网络.pdf", "page": 3},
+    {"question": "事务ACID分别是什么？", "source": "数据库原理.pdf", "page": 5},
+    {"question": "什么是进程？", "source": "操作系统.pdf", "page": 2},
+    {"question": "索引有什么作用和代价？", "source": "数据库原理.pdf", "page": 9}
+  ]
+}
